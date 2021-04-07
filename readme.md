@@ -1,6 +1,7 @@
 # Library to get audio wave from wav files
 
 ### Supported formats:
+
 Unsigned 8-bit PCM
 Signed 16-bit PCM
 Signed 32-bit PCM
