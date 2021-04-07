@@ -1,4 +1,4 @@
-# Library to get audio wave from wav files
+# Library for extracting audio wave from wav files
 
 ### Supported formats:
 
