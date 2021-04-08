@@ -16,3 +16,8 @@ node server.js
 ```
 
 or just double click start.bat
+
+
+Put `http://localhost/index.html` in your browser address tab.
+When wav loaded, you will see white waveform on black background.
+Click anywhere and you will hear music.
